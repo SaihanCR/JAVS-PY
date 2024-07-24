@@ -8,5 +8,6 @@ para encontrar la película perfecta para cada ocasión. Descubre nuevas pelícu
 Despliegue del proyecto
 
 -Clonar o Descaragr el Proyecto
+-Descargar la data con el siguiente link: https://drive.google.com/file/d/1LZL7K9bVPUTf0tmD2KLrQ4SDoMzK0gMP/view?usp=sharing
 - Para desplegar el proyecto por favor descomprimir la carpeta
   
